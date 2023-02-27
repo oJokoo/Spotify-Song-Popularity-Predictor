@@ -1,3 +1,5 @@
+This project used different machine learning models to predict the popularity of a song.
+
 Files Included:
 		ProjectSlides - Contains the slideset for my project
 	
