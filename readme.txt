@@ -28,3 +28,5 @@ Debugging:
 	
 	If the program is taking too long to compute, lower then training and test data split.
 		Currently it is at .8, .2
+		
+Informative Slides: https://docs.google.com/presentation/d/1QqTF99uJx3DH2XCz4X_v6MKyx-fpmN-ziBSX7ayj550/edit?usp=sharing
